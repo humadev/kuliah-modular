@@ -16,3 +16,4 @@ data = programming.fetchall()
 print(data)
 
 print("test")
+print("lagi")
