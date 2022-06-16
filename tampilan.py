@@ -14,3 +14,5 @@ programming.execute('select*from mahasiswa')
 data = programming.fetchall()
 
 print(data)
+
+print("test")
